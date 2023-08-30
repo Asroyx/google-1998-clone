@@ -1,0 +1,26 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+main {
+  width: 100vw;
+}
+
+main img {
+  text-align: center;
+  margin: 0 auto;
+}
+
+.bg-gray {
+  background: #eeeeee;
+}
+
+.vw-80 {
+  width: 89vw;
+  height: 6.2vh;
+}
+
+button {
+  padding: 1px 6px;
+}
